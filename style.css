@@ -164,7 +164,6 @@ nav {
   box-shadow: var(--dark-shadow);
 }
 .nav-center {
-  
   margin: 0 auto;
   display: flex;
   align-items: center;
